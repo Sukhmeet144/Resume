@@ -1,0 +1,38 @@
+.email{
+	 margin-left: 700px;
+}
+.content{
+	margin-top:30px;
+}
+h2{
+	color:orange
+}
+.menu{
+	background: lightgrey;
+}
+.header{
+	background: grey;
+}
+.name{
+	margin-left:20px;
+}
+img{
+	padding:5px 5px 5px 5px;
+}
+.solid
+{
+  border-color: blue;
+ border-style: solid;
+ margin-left:78px;
+ margin-right:40px;
+}
+#a
+{
+	margin-left:250px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
