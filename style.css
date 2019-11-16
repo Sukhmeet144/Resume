@@ -1,3 +1,4 @@
+
 .split {
   height: 100%;
   position:fixed;
@@ -9,7 +10,7 @@
 .left {
   width:30%;
   left:0;
-  background-color:grey;
+  background-color:cyan;
 }
 .right {
   right: 0;
@@ -36,9 +37,9 @@
 }
 .solid
 {
- border-color: grey;
+ border-color:cyan;
  border-style: solid;
- background-color:grey;
+ background-color:cyan;
  text-align:center;
 }
 .fa {
@@ -77,19 +78,19 @@ td, th {
 }
 .align
 {
- border-color: grey;
+ border-color: lightblue;
  border-style: solid;
- background-color:grey;
+ background-color:lightblue;
  margin-left:78px;
  margin-right: 40px;
  text-align: center;
 }
 .align1
 {
- border-color: grey;
+ border-color:lightblue;
  border-style: solid;
- background-color:grey;
+ background-color:lightblue;
  margin-left:78px;
  margin-right: 40px;
- text-align: left;
+ text-align:left;
 }
